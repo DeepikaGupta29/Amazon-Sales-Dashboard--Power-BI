@@ -2,7 +2,7 @@
 
 A professional **Power BI dashboard** that provides actionable insights into Amazon sales data — including courier performance, product trends, fulfillment methods, and geographic shipping patterns.
 
-[![Dashboard Screenshot](https://github.com/DeepikaGupta29/Amazon-Sales-Dashboard--Power-BI)
+[![Dashboard Screenshot](https://github.com/DeepikaGupta29/Amazon-Sales-Dashboard--Power-BI/blob/main/Amazon%20Dashboard.png))
 
 ---
 
@@ -44,6 +44,6 @@ A professional **Power BI dashboard** that provides actionable insights into Ama
 
 ```
 📁 Amazon-Sales-Dashboard
-├── 📸 [https://github.com/DeepikaGupta29/Amazon-Sales-Dashboard--Power-BI]      # Dashboard image
+├── 📸 [https://github.com/DeepikaGupta29/Amazon-Sales-Dashboard--Power-BI/blob/main/Amazon%20Dashboard.png]      # Dashboard image
 ├── 📄 README.md                 # Project description (this file)
 └
